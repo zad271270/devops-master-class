@@ -1,0 +1,528 @@
+repo_name: zad271270/devops-master-class
+report_id: 0b7d45f5aefb63fbbae1f4b06541d540
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-14T14:27:34+00:00'
+requested_by: in28minutes
+provider: github
+branch: master
+detected_tools_count: 42
+tools:
+- name: Gherkin
+  description: A plain-text language with a simple structure
+  website_url: https://cucumber.io/docs/gherkin/reference/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/zad271270/devops-master-class
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/zad271270/devops-master-class
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zad271270/devops-master-class
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zad271270/devops-master-class
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/src/main/resources/data.sql
+  detection_source: jenkins/currency-exchange-microservice/src/main/resources/data.sql
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-java/Dockerfile
+  detection_source: projects/hello-world/hello-world-java/Dockerfile
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-nodejs/package.json
+  detection_source: projects/hello-world/hello-world-nodejs/package.json
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-python/requirements.txt
+  detection_source: projects/hello-world/hello-world-python/requirements.txt
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-nodejs/Dockerfile
+  detection_source: projects/hello-world/hello-world-nodejs/Dockerfile
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: Spring Cloud
+  description: Spring helps development teams everywhere build simple, portable,fast
+    and flexible JVM-based systems and applications.
+  website_url: https://spring.io/projects/spring-cloud
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/microservices/01-currency-exchange-microservice-basic/pom.xml
+  detection_source: projects/microservices/01-currency-exchange-microservice-basic/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: Ansible
+  description: Radically simple configuration-management, application deployment,
+    task-execution, and multi-node orchestration engine
+  website_url: http://www.ansible.com/
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/663/ElOjna20.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/ansible/backup/ansible.cfg
+  detection_source: ansible/backup/ansible.cfg
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-12 04:59:01.000000000 Z
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-java/Dockerfile
+  detection_source: projects/hello-world/hello-world-java/Dockerfile
+  last_updated_by: Ranga Karanam
+  last_updated_on: 2022-06-01 06:21:33.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/zad271270/devops-master-class
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zad271270/devops-master-class
+  detection_source: Repo Metadata
+- name: JaCoCo
+  description: A code coverage library for Java
+  website_url: https://www.jacoco.org/jacoco/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: Jenkins
+  description: An extendable open source continuous integration server
+  website_url: http://jenkins-ci.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/670/jenkins.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/docker-compose.yml
+  detection_source: jenkins/docker-compose.yml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: Terraform
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://www.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/microservices/01-currency-exchange-microservice-basic/configuration/iaac/aws/kubernetes/main.tf
+  detection_source: projects/microservices/01-currency-exchange-microservice-basic/configuration/iaac/aws/kubernetes/main.tf
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: Terraform Registry
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://registry.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/microservices/01-currency-exchange-microservice-basic/configuration/iaac/aws/kubernetes/main.tf
+  detection_source: projects/microservices/01-currency-exchange-microservice-basic/configuration/iaac/aws/kubernetes/main.tf
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-nodejs/package.json
+  detection_source: projects/hello-world/hello-world-nodejs/package.json
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-nodejs/package.json
+  detection_source: projects/hello-world/hello-world-nodejs/package.json
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/src/main/resources/application.properties
+  detection_source: jenkins/currency-exchange-microservice/src/main/resources/application.properties
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-java/Dockerfile
+  detection_source: projects/hello-world/hello-world-java/Dockerfile
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: com.h2database:h2
+  description: H2 Database Engine
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: com.sun.xml.bind:jaxb-impl
+  description: JAXB
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: io.cucumber:cucumber-java
+  description: Cucumber for the JVM
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: io.cucumber:cucumber-junit
+  description: Cucumber for the JVM
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: io.rest-assured:rest-assured
+  description: Java DSL for easy testing of REST services
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: javax.activation:activation
+  description: The JavaBeans
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: javax.xml.bind:jaxb-api
+  description: JAXB
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: org.glassfish.jaxb:jaxb-runtime
+  description: JAXB
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: org.jacoco:org.jacoco.agent
+  description: JaCoCo Agent
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: org.sonarsource.java:sonar-jacoco-listeners
+  description: ":coffee: SonarJava : Java static analyzer for SonarQube &amp; SonarLint"
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-13 11:25:10.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-actuator
+  description: Starter for using Spring Boot's Actuator which provides production
+    ready features to help you monitor and manage your application
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/microservices/01-currency-exchange-microservice-basic/pom.xml
+  detection_source: projects/microservices/01-currency-exchange-microservice-basic/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/microservices/01-currency-exchange-microservice-basic/pom.xml
+  detection_source: projects/microservices/01-currency-exchange-microservice-basic/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: org.springframework.security:spring-security-test
+  description: Spring-security-test
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/jenkins/currency-exchange-microservice/pom.xml
+  detection_source: jenkins/currency-exchange-microservice/pom.xml
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-02-07 17:37:29.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/zad271270/devops-master-class/blob/master/projects/hello-world/hello-world-nodejs/package.json
+  detection_source: projects/hello-world/hello-world-nodejs/package.json
+  last_updated_by: Ranga Rao Karanam
+  last_updated_on: 2020-01-28 10:22:07.000000000 Z
